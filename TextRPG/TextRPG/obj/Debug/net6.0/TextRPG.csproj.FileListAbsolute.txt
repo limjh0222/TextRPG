@@ -1,0 +1,15 @@
+C:\Programming\TextRPG\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.exe
+C:\Programming\TextRPG\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.deps.json
+C:\Programming\TextRPG\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.runtimeconfig.json
+C:\Programming\TextRPG\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.dll
+C:\Programming\TextRPG\TextRPG\TextRPG\bin\Debug\net6.0\TextRPG.pdb
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.AssemblyInfoInputs.cache
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.AssemblyInfo.cs
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.csproj.CoreCompileInputs.cache
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.sourcelink.json
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.dll
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\refint\TextRPG.dll
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.pdb
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\TextRPG.genruntimeconfig.cache
+C:\Programming\TextRPG\TextRPG\TextRPG\obj\Debug\net6.0\ref\TextRPG.dll
